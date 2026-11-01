@@ -2,13 +2,15 @@
 
 Chatbot gratuito que responde dúvidas de estudantes sobre **ProUni, FIES e Sisu** usando **somente** trechos de leis e editais oficiais, e mostra de onde tirou cada informação.
 
-**Acesse:** <!-- LINK_APP --> (link do app publicado no Streamlit Cloud)
+**Acesse:** https://tira-duvidas-prouni.streamlit.app/
 
 ![Tela do assistente](docs/tela.png)
 
 ---
 
 ## Por que este projeto existe
+
+Este projeto foi desenvolvido como **Atividade de Extensão Universitária** do curso de Ciência da Computação da UNIP.
 
 Todo ano, milhões de estudantes tentam entender regras de renda, documentos e prazos dos programas de acesso ao ensino superior. A informação oficial está espalhada em leis e editais longos, escritos em linguagem jurídica. Chatbots genéricos respondem com confiança, mas às vezes inventam regras ou usam as de anos anteriores.
 
