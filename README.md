@@ -10,8 +10,6 @@ Chatbot gratuito que responde dúvidas de estudantes sobre **ProUni, FIES e Sisu
 
 ## Por que este projeto existe
 
-Este projeto foi desenvolvido como **Atividade de Extensão Universitária** do curso de Ciência da Computação da UNIP.
-
 Todo ano, milhões de estudantes tentam entender regras de renda, documentos e prazos dos programas de acesso ao ensino superior. A informação oficial está espalhada em leis e editais longos, escritos em linguagem jurídica. Chatbots genéricos respondem com confiança, mas às vezes inventam regras ou usam as de anos anteriores.
 
 Este assistente usa a técnica **RAG (Retrieval-Augmented Generation)**:
