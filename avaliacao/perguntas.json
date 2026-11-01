@@ -1,0 +1,12 @@
+[
+ {"pergunta": "Qual a renda máxima para ganhar bolsa integral no ProUni?", "espera_algum": ["1 (um) salario-minimo e 1/2", "um salario-minimo e meio", "1,5 (um inteiro e cinco decimos)", "1,5 salario"]},
+ {"pergunta": "Até quanto de renda posso ter para conseguir bolsa parcial de 50%?", "espera_algum": ["3 (tres) salarios-minimos", "3 (tres) salarios minimos", "parciais de 50%"]},
+ {"pergunta": "Quem já tem diploma de faculdade pode se inscrever no ProUni?", "espera_algum": ["nao portadores de diploma", "nao portador de diploma"]},
+ {"pergunta": "Estudei em escola particular com bolsa integral, posso concorrer ao ProUni?", "espera_algum": ["condicao de bolsista integral", "bolsista integral da respectiva"]},
+ {"pergunta": "Professor da rede pública precisa comprovar renda no ProUni?", "espera_algum": ["professor da rede publica", "professores da rede publica"]},
+ {"pergunta": "O que é o FIES e quem pode pedir o financiamento?", "espera_algum": ["fundo de financiamento estudantil", "fies"]},
+ {"pergunta": "Como funciona a reserva de vagas para estudantes de escola pública nas universidades federais?", "espera_algum": ["50% (cinquenta por cento)", "cursado integralmente o ensino medio em escolas publicas"]},
+ {"pergunta": "O Sisu usa a nota de qual exame?", "espera_algum": ["exame nacional do ensino medio", "enem"]},
+ {"pergunta": "Posso me inscrever em mais de um curso no Sisu?", "espera_algum": ["duas opcoes", "ate duas opcoes", "2 (duas) opcoes"]},
+ {"pergunta": "Pessoa com deficiência tem bolsa reservada no ProUni?", "espera_algum": ["pessoas com deficiencia", "pessoa com deficiencia", "portadores de deficiencia", "portador de deficiencia"]}
+]
